@@ -1,0 +1,20 @@
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\bin\Debug\tttoe.exe
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\bin\Debug\tttoe.pdb
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\bin\Debug\tttoe.xml
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\obj\Debug\tttoe.Form1.resources
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\obj\Debug\tttoe.Resources.resources
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\obj\Debug\tttoe.vbproj.GenerateResource.Cache
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\obj\Debug\tttoe.exe
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\obj\Debug\tttoe.xml
+C:\Users\linus\AppData\Local\Temporary Projects\tttoe\obj\Debug\tttoe.pdb
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\obj\Debug\tttoe.exe
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\obj\Debug\tttoe.xml
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\obj\Debug\tttoe.pdb
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\bin\Debug\tttoe.exe
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\bin\Debug\tttoe.pdb
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\bin\Debug\tttoe.xml
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\obj\Debug\tttoe.Form1.resources
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\obj\Debug\tttoe.Resources.resources
+C:\Users\linus\Documents\Visual Studio 2008\Projects\tttoe\tttoe\obj\Debug\tttoe.vbproj.GenerateResource.Cache
